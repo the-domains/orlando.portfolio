@@ -2,6 +2,7 @@ name: Orlando Portfolio
 favicon: null
 layout_spectrum: 0.4417972578667104
 typography_spectrum: 0.6145089704077691
+title: Orlando.Portfolio
 cta:
   domain: null
   bucket: null

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Orlando.Portfolio]]></title>
+        <description><![CDATA[Orlando.Portfolio]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 21 Jul 2016 03:05:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GAROTO CÓMICO animação de Alê Abreu. ]]></title>
+            <description><![CDATA[<article><h1>GAROTO CÓMICO animação de Alê Abreu. </h1><p>Intervalação digital e adaptações de artes para mídia in e offline</p></article>]]></description>
+            <link>undefinedgaroto-comico-animacao-de-ale-abreu/index.html</link>
+            <guid isPermaLink="false">a65bee44-5397-43a5-a9d5-216fb19d4a6d</guid>
+            <pubDate>Thu, 21 Jul 2016 03:05:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

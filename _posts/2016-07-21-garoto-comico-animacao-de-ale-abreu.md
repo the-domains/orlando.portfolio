@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Intervalação digital e adaptações de artes para mídia in e offline
-datePublished: '2016-07-21T03:06:31.673Z'
-dateModified: '2016-07-21T03:05:30.812Z'
+datePublished: '2016-07-21T03:13:08.963Z'
+dateModified: '2016-07-21T03:12:58.608Z'
 title: 'GAROTO CÓMICO animação de Alê Abreu. '
 author: []
 via: {}

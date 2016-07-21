@@ -1,7 +1,7 @@
 name: Orlando Portfolio
 favicon: null
 layout_spectrum: 0.4417972578667104
-typography_spectrum: 0.6145089704077691
+typography_spectrum: 0.60128
 title: Orlando.Portfolio
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.5917637329548597
+  brandStrength: 0.6875
   lightness: 0.44137115054763854
-  saturation: 0.8921432557981461
-  rhythmicContrast: 0.32664681202732027
+  saturation: 0.9375
+  rhythmicContrast: 0.75
 purpose: []

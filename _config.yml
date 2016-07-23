@@ -1,20 +1,8 @@
-title: Orlando.Portfolio
-cta:
-  version: null
-  bucket: null
-  domain: null
-layout_spectrum: 0.9234043
-favicon: null
 name: Orlando Portfolio
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.9234043
+typography_spectrum: 0.52733
+title: Orlando-Portfolio
 collections:
   - index:
       navigable: true
@@ -27,15 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.8125
-  saturation: 0.9375
   brandColors:
     - '#ffffff'
     - '#7f216d'
     - '#01508b'
     - '#cca2c1'
     - '#d65e00'
+  brandStrength: 0.8125
   lightness: 0.6875
+  saturation: 0.9375
   rhythmicContrast: 0.75
-typography_spectrum: 0.52733
+purpose: []

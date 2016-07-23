@@ -4,8 +4,15 @@
         <description><![CDATA[Orlando-Portfolio]]></description>
         <link>https://thegrid.ai/orlando.portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 00:01:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2016 00:01:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/orlando.portfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bento Albino]]></title>
+            <description><![CDATA[<p>Bento Albino</p>]]></description>
+            <link>https://thegrid.ai/orlando.portfolio/bento-albino/index.html</link>
+            <guid isPermaLink="false">8379d7be-f342-4236-b109-a65b3a6fbd35</guid>
+            <pubDate>Sat, 23 Jul 2016 00:01:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://d4z6dx8qrln4r.cloudfront.net/image-56e31773db5a7-default.gif">]]></description>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/orlando.portfolio/316cdea6-d11d-4123-8342-15b2ca7945cc/index.html</link>
             <guid isPermaLink="false">316cdea6-d11d-4123-8342-15b2ca7945cc</guid>
             <pubDate>Fri, 22 Jul 2016 23:47:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Bento Albino</p>]]></description>
-            <link>https://thegrid.ai/orlando.portfolio/bento-albino/index.html</link>
-            <guid isPermaLink="false">8379d7be-f342-4236-b109-a65b3a6fbd35</guid>
-            <pubDate>Thu, 21 Jul 2016 03:36:40 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@ name: Orlando Portfolio
 favicon: null
 layout_spectrum: 0.9234043
 typography_spectrum: 0.52733
-title: Orlando-Portfolio
+title: oPortfolio
 collections:
   - index:
       navigable: true
